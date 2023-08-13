@@ -9,14 +9,14 @@ google-ID: ''
 menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
-- {name: 'Blog',               url: 'blog'}
+- {name: 'Documentation',      url: 'documentation'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link:    'https://github.com/basktballer'}
 - {icon: 'envelope', link:   'mailto:edenstyeung@gmail.com'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/eden-yeung/'}
-- {icon: 'user', link: 'https://resume.creddle.io/resume/d7158k02e3m'}
+- {icon: 'robot', link: 'https://resume.creddle.io/resume/d7158k02e3m'}
 
 # Customize site text
 #pagination:
