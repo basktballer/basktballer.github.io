@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Currently working as a Software Developer at Nascent Digital, Eden is a full-stack developer with experience working on a variety of software development projects. Some of these projects include launching and scaling a video call platform for veterinarian consults, building out marketing web pages, maintaining a large legacy wealth management software suite as well as on site deployment of custom industrial robot software. As a developer with an engineering background and mindset, Eden is passionate about building applications for solving modern day problems. Eden's unique career path has enabled him to be an eager and quick learner, who is not afraid of challenges and is always willing to step up and take ownership.
