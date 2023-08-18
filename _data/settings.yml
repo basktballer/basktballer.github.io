@@ -10,6 +10,7 @@ menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 - {name: 'Blog',               url: 'blog'}
+- {name: 'Resume',             url: 'https://resume.creddle.io/resume/d7158k02e3m'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -19,12 +20,12 @@ social:
 - {icon: 'clipboard', link: 'https://resume.creddle.io/resume/d7158k02e3m'}
 
 # Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
-
-sharing_button_prompt: 'Feel free to share!'
+#pagination:
+#  next_page: 'Newer'
+#  previous_page: 'Older'
 #
-related_posts: 'You may also enjoy...'
+#sharing_button_prompt: 'Feel free to share!'
 #
-post_date_prefix: 'Written on'
+#related_posts: 'You may also enjoy...'
+#
+#post_date_prefix: 'Written on'
