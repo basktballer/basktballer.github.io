@@ -12,4 +12,4 @@ My superpower as a professional is collaboration and teamwork and one of my favo
 
 In my free time, I use my superpower playing sports like volleyball and basketball.
 
-<img src="/assets/img/bear-1.jpg" alt="Bear photo" style="height: 100px; width:100px;"/
+![Photo of bear](/assets/img/bear-1.jpg)
