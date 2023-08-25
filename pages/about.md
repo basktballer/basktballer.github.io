@@ -1,7 +1,15 @@
 ---
 layout: page
-title: About
+title: A little about me!
 permalink: /about
 ---
 
-Currently working as a Software Developer at Nascent Digital, Eden is a full-stack developer with experience working on a variety of software development projects. Some of these projects include launching and scaling a video call platform for veterinarian consults, building out marketing web pages, maintaining a large legacy wealth management software suite as well as on site deployment of custom industrial robot software. As a developer with an engineering background and mindset, Eden is passionate about building applications for solving modern day problems. Eden's unique career path has enabled him to be an eager and quick learner, who is not afraid of challenges and is always willing to step up and take ownership.
+I'm a mechanical engineer by training but a software developer by trade. I'm currently working as a Software Developer at Nascent Digital. As a developer with an engineering background and mindset, I'm really passionate about building things that help make the world a better place and I've found that's where I get into my flow state.
+
+Some of my past software projects include launching and scaling a video call platform for veterinarian consults, building out marketing web pages for multinational corporations, as well as maintaining a large legacy wealth management software suite. Before my life in software, I have had work experiences in different roles in manufacturing, logistics and robotics. 
+
+My superpower as a professional is collaboration and teamwork and one of my favorite things is celebrating a hard fought win with the team.
+
+In my free time, I use my superpower playing sports like volleyball and basketball.
+
+<img src="/assets/img/bear-1.jpg" alt="Bear photo" style="height: 100px; width:100px;"/

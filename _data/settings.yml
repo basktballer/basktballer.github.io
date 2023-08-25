@@ -9,7 +9,6 @@ google-ID: ''
 menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
-- {name: 'Blog',               url: 'blog'}
 - {name: 'Resume',             url: 'https://resume.creddle.io/resume/d7158k02e3m'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
