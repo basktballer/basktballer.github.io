@@ -24,6 +24,9 @@ social:
 #
 #sharing_button_prompt: 'Feel free to share!'
 #
-#related_posts: 'You may also enjoy...'
+related_posts: 'You may also enjoy...'
 #
 #post_date_prefix: 'Written on'
+hide_post_share: true
+hide_related_posts: true
+hide_post_date: true
